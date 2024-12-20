@@ -31,8 +31,8 @@ Open the Cypress Test Runner using the following command.
 ```
 npm run headed
 ```
-## You will see cypress open in browser mode, then click on E2E Testing -> select chrome browser -> You will see the test case. 
-## click on coffeecart.spec.ts -> Test case start executing
+ You will see cypress open in browser mode, then click on E2E Testing -> select chrome browser -> You will see the test case. 
+ click on coffeecart.spec.ts -> Test case start executing
 
 
 
