@@ -1,0 +1,17 @@
+{
+  "name": "coffeecart",
+  "version": "1.0.0",
+  "description": "This is automation suite for Coffee Cart",
+  "main": "index.js",
+  "scripts": {
+    "headed": "npx cypress open",
+    "headless" : "npx cypress run"
+  },
+  "author": "Avdhesh Jhawar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^5.7.2"
+  }
+}
